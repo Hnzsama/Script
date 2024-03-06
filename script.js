@@ -1,1 +1,4 @@
-alert("This is my first online script")
+confirm("Selamat Datang")
+
+const a = prompt("Siapa Nama Anda ?")
+alert(a)
