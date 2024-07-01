@@ -1,4 +1,4 @@
 confirm("Selamat Datang")
 
-const a = prompt("Siapa Nama Anda ?")
+const a = prompt("awokoakwoakwoa ?")
 alert(a)
